@@ -3,8 +3,17 @@ body{
 background-repeat: no-repeat;
 background-size: cover;
 }
-.name{width: 100%;
+.moving{
+    padding-top: 20%;
+    width: 100%;
 height: 500px;
 background-image: none;
 
 }
+.ball{
+    border-radius: 50%;
+}
+.someone{
+overflow-y: 20%;
+overflow-y: 20%
+;}
