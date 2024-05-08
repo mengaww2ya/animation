@@ -1,19 +1,14 @@
 body{
-    background-image:url(download\ \(2\).jpeg);
+    background-image:url(irina-iriser-2Y4dE8sdhlc-unsplash.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
 .moving{
-    padding-top: 20%;
+    padding-top: 35%;
     width: 100%;
-height: 500px;
-background-image: none;
+height: 100;
 
 }
 .ball{
     border-radius: 50%;
 }
-.someone{
-overflow-y: 20%;
-overflow-y: 20%
-;}
